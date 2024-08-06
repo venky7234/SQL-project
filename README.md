@@ -14,7 +14,7 @@ The ER Diagram included in the repository illustrates the relationships between 
 Setup
 Clone the Repository:
 
-git clone https://github.com/yourusername/online-retail-application-database.git
+git clone https://github.com/venky7234/SQL-project.git
 cd online-retail-application-database
 Import the Schema:
 
