@@ -15,6 +15,7 @@ Setup
 Clone the Repository:
 
 git clone https://github.com/venky7234/SQL-project.git
+C:\ProgramData\MySQL\MySQL Server 8.0\Data
 cd online-retail-application-database
 Import the Schema:
 
